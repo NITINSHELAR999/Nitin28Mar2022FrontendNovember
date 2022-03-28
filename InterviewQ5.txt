@@ -1,0 +1,7 @@
+Q5)What is the float property of CSS?
+
+Ans-
+
+The CSS float property is used to move the image to the right or left along with the texts to be wrapped around it. It doesn't change the property of the elements used before it.
+
+To understand its purpose and origin, let's take a look at its print display. In the print display, an image is set into the page such that text wraps around it as needed

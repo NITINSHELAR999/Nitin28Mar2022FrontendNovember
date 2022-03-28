@@ -1,0 +1,6 @@
+Q4)What is the difference between logical tags and physical tags?
+
+Ans-
+
+Physical tags are referred to as presentational markup while logical tags are useless for appearances.
+Physical tags are newer versions, on the other hand, logical tags are old and concentrate on content.
